@@ -1,2 +1,4 @@
 # AULA-1
 Primeira aula - EXEMPLO
+
+EDITADO DURANTE A AULA
